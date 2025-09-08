@@ -1,1 +1,1 @@
-I am learning how to use git commands on and how to git push.
+I am learning how to use git commands on vs code and how to git push.
