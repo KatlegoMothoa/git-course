@@ -5,11 +5,15 @@ public class Git {
         Scanner kb = new Scanner(System.in);
 
         String username = "";
+        String surname = "";
 
         System.out.println("Enter your username: ");
         username = kb.nextLine();
 
-        System.out.println("My name is "+username+" and i'm stalking Katlego Mothoa. I don't wanna lie, this guy is destined for greatness.");
+        System.out.println("Enter your Surname: ");
+        surname = kb.nextLine();
+
+        System.out.println("I am "+username+" "+surname+" and i'm stalking Katlego Mothoa. I don't wanna lie, this guy is destined for greatness.");
 
     }
 }
