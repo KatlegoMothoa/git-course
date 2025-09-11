@@ -1,3 +1,5 @@
 I am learning how to use git commands on vs code and how to git push.
 
 So today on the 10th of september i learnt about tags. so i'm gonna commit, push, create a new tag, then also push it.
+
+11 Sep: Learnt how to create branches
